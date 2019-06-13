@@ -9,7 +9,7 @@ This Docker is a demo for Volto.
 ## Run
 
 ```
-$ docker run -it --rm -p 3000:3000 -p 3001:3001 volto-demo
+$ docker run -it --rm -p 3000:3000 -p 3001:3001 terapyon/volto-demo
 ```
 
 ## Information
