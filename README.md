@@ -4,7 +4,7 @@ This Docker is a demo for Volto.
 
 ## Volto version
 
-"@plone/volto": "3.0.4"
+"@plone/volto": ~~"3.0.4"~~ "8.9.2" (2020-11-11 updated)
 
 ## Run
 
